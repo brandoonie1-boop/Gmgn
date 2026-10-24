@@ -1,0 +1,9 @@
+# GMGN credentials: never commit these
+.env
+.env.*
+*.pem
+
+# Python / OS clutter
+__pycache__/
+*.pyc
+.DS_Store
